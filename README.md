@@ -10,3 +10,8 @@ Design Patterns and LLD
 Low Level Design 
 
 1. Hotel Management System - https://www.youtube.com/watch?v=Hb6WePtPQhg&list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7&index=2 (Uses Decorator Pattern)
+
+
+SYSTEM DESIGN 
+
+FB NOTIFICATION System - https://towardsdatascience.com/designing-notification-system-with-message-queues-c30a2c9046de
