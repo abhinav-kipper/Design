@@ -15,3 +15,7 @@ Low Level Design
 SYSTEM DESIGN 
 
 FB NOTIFICATION System - https://towardsdatascience.com/designing-notification-system-with-message-queues-c30a2c9046de
+
+Java Springboot
+
+Brillian resource - https://www.youtube.com/watch?v=5zpIZWLC1iw&list=PLmCsXDGbJHdi4SzxYOSdTMkC-GDrCDP4w&index=3
