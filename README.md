@@ -26,4 +26,5 @@ https://leetcode.com/discuss/interview-question/system-design/1729681/compilatio
 
 
 Concurrency
-https://www.educative.io/blog/top-five-concurrency-interview-questions-for-software-engineers
+Basics - https://www.educative.io/blog/top-five-concurrency-interview-questions-for-software-engineers
+JAVA - https://www.vogella.com/tutorials/JavaConcurrency/article.html#:~:text=Concurrency%20is%20the%20ability%20to,the%20interactivity%20of%20the%20program.
